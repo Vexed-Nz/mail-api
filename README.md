@@ -8,4 +8,7 @@ The Great thing about this api is that it use emails that won't get detected as 
 Just Don't abuse there service Please...
 
 Enjoy..
-<img src="infoapi.PNG">
+
+Here is The output:
+
+<img src="infoapi.PNG" width="100%" height="100%">
